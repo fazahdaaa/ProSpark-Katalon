@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_IDN_m--img-rounded m--marginless m--img_73535a</name>
+   <tag></tag>
+   <elementGuidId>1e30fd5f-3a29-4222-9f5a-4e094aa9286b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='m_header_topbar']/div/ul/li[4]/a/span/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.m--img-rounded.m--marginless.m--img-centered</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cleancode-stg.prospark.co/images/avatar.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m--img-rounded m--marginless m--img-centered</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;m_header_topbar&quot;)/div[@class=&quot;m-stack__item m-topbar__nav-wrapper&quot;]/ul[@class=&quot;m-topbar__nav m-nav m-nav--inline&quot;]/li[@class=&quot;m-nav__item m-topbar__notifications m-topbar__notifications--img m-dropdown \
+								m-dropdown--large m-dropdown--header-bg-fill m-dropdown--arrow m-dropdown--align-center \
+								m-dropdown--mobile-full-width&quot;]/a[@class=&quot;m-nav__link dropdown-toggle&quot;]/span[@class=&quot;m-topbar__userpic avatar-bordered&quot;]/img[@class=&quot;m--img-rounded m--marginless m--img-centered&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='m_header_topbar']/div/ul/li[4]/a/span/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://cleancode-stg.prospark.co/images/avatar.png')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/img</value>
+   </webElementXpaths>
+</WebElementEntity>

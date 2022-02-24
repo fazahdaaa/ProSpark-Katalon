@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menuTraining</name>
+   <tag></tag>
+   <elementGuidId>e4599b9d-7c81-4579-9f9f-3a1a1c283bf4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='m_ver_menu']/ul/li[3]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.las.la-briefcase.m-menu__link-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>las la-briefcase m-menu__link-icon</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;m_ver_menu&quot;)/ul[@class=&quot;m-menu__nav  m-menu__nav--dropdown-submenu-arrow&quot;]/li[@class=&quot;m-menu__item  m-menu__item--&quot;]/a[@class=&quot;m-menu__link m-menu__toggle&quot;]/i[@class=&quot;las la-briefcase m-menu__link-icon&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='m_ver_menu']/ul/li[3]/a/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/i</value>
+   </webElementXpaths>
+</WebElementEntity>

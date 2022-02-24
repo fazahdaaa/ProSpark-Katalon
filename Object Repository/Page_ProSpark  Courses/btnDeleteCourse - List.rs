@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnDeleteCourse - List</name>
+   <tag></tag>
+   <elementGuidId>46fb79a9-1d47-47af-93ab-28ee87d78f93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='m_datatable']/tbody/tr/td[6]/span/div/a[3]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.m-menu__link-icon.fa.fa-trash-o</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-menu__link-icon fa fa-trash-o</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;m_datatable&quot;)/tbody[@class=&quot;m-datatable__body&quot;]/tr[@class=&quot;m-datatable__row&quot;]/td[@class=&quot;m-datatable__cell&quot;]/span[1]/div[@class=&quot;row-actions&quot;]/a[@class=&quot;delete-course-button-action course-button btn m-btn--wide m-btn--pill btn-outline-brand btn-sm&quot;]/i[@class=&quot;m-menu__link-icon fa fa-trash-o&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='m_datatable']/tbody/tr/td[6]/span/div/a[3]/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/i</value>
+   </webElementXpaths>
+</WebElementEntity>
